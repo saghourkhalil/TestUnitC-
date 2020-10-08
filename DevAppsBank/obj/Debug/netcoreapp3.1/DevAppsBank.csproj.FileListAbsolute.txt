@@ -1,0 +1,12 @@
+D:\Projets_C#\stage khalil\DevAppsBank\obj\Debug\netcoreapp3.1\DevAppsBank.csprojAssemblyReference.cache
+D:\Projets_C#\stage khalil\DevAppsBank\obj\Debug\netcoreapp3.1\DevAppsBank.AssemblyInfoInputs.cache
+D:\Projets_C#\stage khalil\DevAppsBank\obj\Debug\netcoreapp3.1\DevAppsBank.AssemblyInfo.cs
+D:\Projets_C#\stage khalil\DevAppsBank\bin\Debug\netcoreapp3.1\DevAppsBank.exe
+D:\Projets_C#\stage khalil\DevAppsBank\bin\Debug\netcoreapp3.1\DevAppsBank.deps.json
+D:\Projets_C#\stage khalil\DevAppsBank\bin\Debug\netcoreapp3.1\DevAppsBank.runtimeconfig.json
+D:\Projets_C#\stage khalil\DevAppsBank\bin\Debug\netcoreapp3.1\DevAppsBank.runtimeconfig.dev.json
+D:\Projets_C#\stage khalil\DevAppsBank\bin\Debug\netcoreapp3.1\DevAppsBank.dll
+D:\Projets_C#\stage khalil\DevAppsBank\bin\Debug\netcoreapp3.1\DevAppsBank.pdb
+D:\Projets_C#\stage khalil\DevAppsBank\obj\Debug\netcoreapp3.1\DevAppsBank.dll
+D:\Projets_C#\stage khalil\DevAppsBank\obj\Debug\netcoreapp3.1\DevAppsBank.pdb
+D:\Projets_C#\stage khalil\DevAppsBank\obj\Debug\netcoreapp3.1\DevAppsBank.genruntimeconfig.cache
