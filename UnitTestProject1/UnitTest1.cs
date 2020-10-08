@@ -7,7 +7,7 @@ namespace UnitTestProject1
     public class UnitTest1
     {
         /// <summary>
-        /// verifie si la valeur attendue (1200) et égal à la valeur calculé account.Balance
+        /// verifie si la valeur attendue (1200) et Ã©gal Ã  la valeur calculÃ© account.Balance
         /// </summary>
         [TestMethod]
         public void Credit_WithValidAmount()
@@ -27,12 +27,10 @@ namespace UnitTestProject1
         {
             var account = new BankAccount("Khalil", 1000);
             account.Credit(-100);
-            //Assert.AreEqual(1100, account.Balance);
-
         }
 
         /// <summary>
-        /// verifie si la valeur attendue (1200) et égal à la valeur calculé account.Balance
+        /// verifie si la valeur attendue (1200) et Ã©gal Ã  la valeur calculÃ© account.Balance
         /// </summary>
         [TestMethod]
         public void Debit_WithValidAmount()
